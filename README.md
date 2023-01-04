@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fercan, this is about me:
+- 👋 Hi, I’m Fercan and this is about me:
 
 - 👀 Interested in data analysis and data science.
 
